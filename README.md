@@ -17,5 +17,5 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=VojtaKingO&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=VojtaKing&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VojtaKing&layout=compact&theme=tokyonight)
