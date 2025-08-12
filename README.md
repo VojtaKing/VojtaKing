@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Profil README -->
 
-<!--
-**VojtaKing/VojtaKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Programming Languages
 
-Here are some ideas to get you started:
+| Language       | Proficiency Level         |
+|----------------|---------------------------|
+| **Python**     | Intermediate – scripting, automation |
+| **Rust**       | Beginner –|
+| **GDscript**   | Intermediate – |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=VojtaKing&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=VojtaKingO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VojtaKing&layout=compact&theme=tokyonight)
