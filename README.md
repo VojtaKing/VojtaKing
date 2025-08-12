@@ -11,8 +11,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=VojtaKing&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
