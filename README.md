@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/9758a979-42e9-42d4-865b-23436432a139" />
+
 <!-- Profile README -->
 
 <p align="center">
