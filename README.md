@@ -9,7 +9,7 @@
 
 ## 🛠 Programming Languages
 
-| Icon | Language       | Proficiency Level                |
+ | Language       | Proficiency Level                |
 |------|----------------|----------------------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/> | **Python**     | Intermediate – scripting, automation |
 | <img src="https://raw.githubusercontent.com/graydon/rust-www/gh-pages/logos/rust-logo-256x256.png" width="32"/> | **Rust**       | Beginner  |
