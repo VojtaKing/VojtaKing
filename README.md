@@ -1,1 +1,2 @@
-i am making games and other software , i know Python and  currently learning Rust 
+i like making games
+i am learning Rust
