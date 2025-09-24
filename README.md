@@ -1,2 +1,1 @@
-i like making games
-i am learning Rust
+My predominant creative orientation manifests in the deliberate conceptualization, structural design, and iterative construction of interactive ludic systems, through which I continuously refine both artistic expression and technical execution, while in parallel I am engaged in the methodical and progressive acquisition of advanced proficiency within the broader ecosystem of the Rust programming language, encompassing not only its syntactic paradigms but also its architectural philosophies and community-driven development practices.
