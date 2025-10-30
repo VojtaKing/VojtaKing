@@ -1,1 +1,1 @@
-i like making games in Rust
+i like Rust 
